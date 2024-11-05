@@ -1,6 +1,6 @@
-**ABOUT ME**
+## 👋 Hi, I’m Tony González
 
-•	👋 Hi, I’m Tony González
+**ABOUT ME**
 
 •	🔄 Transitioning towards roles as a Data Analyst and Data Scientist.
 
