@@ -4,7 +4,7 @@
 
 •	🔄 Transitioning towards roles as a Data Analyst and Data Scientist.
 
-•	📊 Previous experience in operations, IT, sales, and marketing, with a comprehensive view of business processes.
+•	📊 Previous experience in operations, connected to IT, sales, and marketing, with a comprehensive view of business processes.
 
 •	🧠 Developing advanced skills in data science: Python, SQL, statistics, and machine learning.
 
