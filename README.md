@@ -1,6 +1,9 @@
-## 👋 Hi, I’m Tony González
+<div align="center">
+<h1 align="center">Hi, I’m Tony González 👋</h1>
+</div>
+<img src="https://i.imgur.com/OL0LLrj.jpeg">
 
-**ABOUT ME**
+## **ABOUT ME**
 
 •	🔄 Transitioning towards roles as a Data Analyst and Data Scientist.
 
